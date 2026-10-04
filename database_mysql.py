@@ -8,7 +8,7 @@ from dish_data import SEED_DISHES
 
 MYSQL_CONFIG = {
     "host": "localhost",
-    "user": "root",
+    "user": "your_mysql_username_here",
     "password": "your_mysql_password_here"
 }
 
